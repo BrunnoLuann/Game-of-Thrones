@@ -4,6 +4,8 @@ Esta API fornece informações sobre personagens da popular série de TV "Game o
 ## URL Base
 A URL base para acessar a API é: https://thronesapi.com/api/v2/Characters
 
+## Acesse o site https://abusive-street.surge.sh/
+
 ## Endpoints
 ## Obter Todos os Personagens
 Endpoint: /
